@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World 👋
+I am a backend software engineer from Brazil current living in Colombia.
+
+
+- 🔭 I’m currently working on multiples PHP and Laravel projects.
 
 <!--
 **lauana-oh/lauana-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
